@@ -2,7 +2,7 @@
 
 A small Python pipeline that cleans a raw transactions file and checks it against data-quality rules before it is used for analysis. GitHub Actions runs the tests and the checks on every push and pull request, so untrustworthy data turns the build red.
 
-Built for my 43030 Professional Learning Plan (Goal 3: software development tools).
+Built by Ziqi Zhang for the 43030 Professional Learning Plan.
 
 ## What it does
 
